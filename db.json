@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "Robins stream",
+      "description": "Really nice!",
+      "id": 1
+    },
+    {
+      "description": "Not so good",
+      "title": "Someone else's stream",
+      "id": 2
+    },
+    {
+      "title": "Is it better now?",
+      "description": "Refactor!",
+      "id": 5
+    },
+    {
+      "title": "Awesome video",
+      "description": "You should see it",
+      "userId": "110462434175740795086",
+      "id": 6
+    }
+  ]
+}
